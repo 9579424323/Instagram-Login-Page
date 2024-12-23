@@ -1,0 +1,121 @@
+.box {
+  height: 70%;
+  width: 25%;
+  margin: 0% 33% 0% 33%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  border: 1px solid gray;
+  padding-left: 90px;
+  border-radius: 20px;
+}
+
+.head {
+  font-family: arial;
+  font-size: 2em;
+}
+p {
+  margin-top: 1px;
+  color: rgb(255, 0, 136);
+}
+
+.username {
+  border: 1px solid gray;
+  padding-left: 10px;
+  padding: 8px;
+  width: 60%;
+  margin-bottom: 8px;
+  background-color: rgb(249, 246, 246);
+  margin-left: 9px;
+  border-radius: 3px;
+}
+
+.password {
+  border: 1px solid gray;
+  padding-left: 10px;
+  padding: 8px;
+  width: 60%;
+  background-color: rgb(249, 246, 246);
+  margin-left: 9px;
+  border-radius: 3px;
+}
+::placeholder {
+  font-size: 12px;
+}
+
+button {
+  width: 65%;
+  border-radius: 8px;
+  background-color: rgb(4, 163, 255);
+  color: white;
+  margin-top: 15px;
+  padding: 6px;
+  border-color: rgb(4, 163, 255);
+  margin-bottom: 30px;
+  margin-left: 9px;
+}
+button:hover {
+  background-color: blue;
+}
+
+.line {
+  color: gray;
+  margin-left: 9px;
+}
+
+.facebook {
+  margin-top: 50px;
+  color: rgb(4, 48, 158);
+  margin-bottom: 30px;
+  margin-left: 55px;
+  font-weight: 600;
+}
+.facebook a {
+  color: rgb(67, 94, 117);
+}
+
+.forget {
+  margin-left: 80px;
+  font-size: 13px;
+  color: gray;
+}
+.forget a {
+  color: rgb(95, 122, 136);
+}
+
+.signup {
+  margin-left: 35px;
+  margin-top: 50px;
+}
+a {
+  color: rgb(2, 129, 193);
+  font-weight: bold;
+  text-decoration: none;
+}
+.app {
+  margin-left: 80px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+.stores {
+  margin-left: 10px;
+  padding-inline: 18px;
+}
+.pic1 img {
+  border: 5px solid black;
+  margin-left: -18px;
+  border-radius: 12px;
+}
+.pic2 img {
+  margin-left: 18px;
+  border: 5px solid black;
+  border-radius: 12px;
+}
+
+.foot {
+  color: rgb(153, 152, 152);
+  font-family: serif;
+  font-size: 14px;
+  word-spacing: 1.1mm;
+  margin-top: 80px;
+  margin-left: 10px;
+}
